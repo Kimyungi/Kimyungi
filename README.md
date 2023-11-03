@@ -20,7 +20,7 @@
 
 <div align=center>
 
-[![CV Bage](http://img.shields.io/badge/-CV-181717?style=flat&logo=Github&logoColor=white&link=http://m.site.naver.com/10JV9)](http://m.site.naver.com/10JV9)
+[![CV Bage](http://img.shields.io/badge/-CV-181717?style=flat&logo=Github&logoColor=white&link=https://m.site.naver.com/1eDjA)](https://m.site.naver.com/1eDjA)
 [![Instagram Bage](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yg_6.23)](https://www.instagram.com/yg_6.23)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eddie@upstage.ai)](mailto:eddie@upstage.ai)
 
