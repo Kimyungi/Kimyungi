@@ -7,16 +7,8 @@
 </div>
 
 #### 📖 Research Interests
-- Big Data, Data Science/Mining, Recommender Systems
-- Machine/Deep Learning, Graph Neural Networks
-
-#### 📜 Certification
-- ADsP, SQLD
-
-#### 🧩 Skills
-- **Programming Language**: Python (Advanced), Java (Basic), C (Basic)
-- **Data Analysis & ML & DL**: Scikit-learn with Numpy & Pandas (Advanced), Pytorch (Advanced), Tensorflow (Intermediate)
-- **Others**: Git (Intermediate), Crawling (Advanced), Docker (Basic), SQL (Basic)
+- Large Language Models, Data Synthesis, LLM Evaluation
+- Recommender Systems, Data Science/Mining, Machine/Deep Learning
 
 <div align=center>
 
